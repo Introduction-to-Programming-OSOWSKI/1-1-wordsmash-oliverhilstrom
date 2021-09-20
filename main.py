@@ -1,4 +1,4 @@
 #WRITE YOUR CODE HERE
 def wordSmash(a, b):
-    print(a + b)
-wordSmash("peanut", "butter")
+    return a + b
+print(wordSmash("peanut", "butter"))
